@@ -10,4 +10,9 @@ void input()
     cout << "Maukaan Bilanga Kedua = ";
     cin >> bilB;
 }
+int bilA, int bilB;
 
+int penjumlahan(int a, int b)
+{
+    return a + b;
+}
